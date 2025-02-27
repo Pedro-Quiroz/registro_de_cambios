@@ -12,11 +12,11 @@ Este repositorio contiene un registro de cambios y actualizaciones recientes. Aq
 - **CSS3**
   - Flexbox
   - Media Queries
-  
+
 ## Autor
 
 - **Nombre:** Pedro Fernando Quiroz Andamayo
 - **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/pedro-fernando-quiroz-andamayo-008a96217/)
 
 
-https://roadmap.sh/projects/testimonial-cards
+https://roadmap.sh/projects/changelog-component
